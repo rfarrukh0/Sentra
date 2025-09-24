@@ -1,2 +1,5 @@
 # PRJ566Group7
-PRJ566 Group 7
+
+Ryaan Farrukh
+Kencho Lodhen
+Anand Krishna Anil Kumar
